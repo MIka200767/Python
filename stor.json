@@ -1,0 +1,13 @@
+{ 
+    "banana": {
+        "quantity": 20,
+        "payment_price": 187.5,
+        "purchase_price": 150.0
+    },
+    "ananas": {
+        "quantity": 70,
+        "payment_price": 125.0,
+        "purchase_price": 100.0
+    }
+}
+
